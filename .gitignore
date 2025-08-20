@@ -2,3 +2,4 @@ pushtvl.py
 vault/*
 ecosystem.config.js
 logs/pushtvl-out.log
+test_funding.py
